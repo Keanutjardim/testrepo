@@ -1,0 +1,2 @@
+#Display putput
+print("purput")
